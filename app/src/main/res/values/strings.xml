@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNotificationApp</string>
+
+    <string name="show_notification">Show Notification!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_event">FirstEventActivity</string>
+    <string name="title_activity_second_event">SecondEventActivity</string>
+
+    <string name="delete">Delete</string>
+    <string name="reply">Reply</string>
+</resources>
